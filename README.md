@@ -1,5 +1,5 @@
 # 3DR
-An old school project. A 3D Roguelike.
+My year 11 project. A 3D Roguelike.
 
 Graphics done using opengl through the LWJGL Library www.lwjgl.org
 
